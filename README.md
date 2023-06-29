@@ -4,6 +4,10 @@ This repository contains raw files generated during a systematic literature and 
 
 > TODO
 
+## License
+
+This work is licensed under the terms of the Creative Commons CC-BY-SA (Attribution-ShareAlike) 4.0 International. For further information check [LICENSE](./LICENSE) or https://creativecommons.org/licenses/by-sa/4.0/.
+
 ## Content
 
 ### Reasoner overview
