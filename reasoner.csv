@@ -3,59 +3,49 @@ AllegroGraph,maintained,usable,https://allegrograph.com/products/allegrograph/,O
 Arachne,maintained,usable,,https://github.com/balhoff/arachne,,CLI via Jar-File
 BaseVISor,maintained,usable,https://vistology.com/products/basevisor/,,API documentation and usage information provided via ZIP file (which contains Jar files).,"CLI via Jar-File,Java API"
 BORN,maintained,usable,https://julianmendez.github.io/born/,https://github.com/de-tu-dresden-inf-lat/born,,"CLI via Jar-File,Protégé-Plugin"
-CEL,maintained,usable,https://julianmendez.github.io/cel/,https://github.com/julianmendez/cel,,"CLI via Jar-File,Protégé-Plugin"
-Clipper,abandoned,usable,http://www.kr.tuwien.ac.at/research/systems/clipper/index.html,https://github.com/ghxiao/clipper,,"Jar-File,Java API?"
-ElepHant,maintained,usable,https://www.informatik.fb2.frankfurt-university.de/~sertkaya/software.html,https://github.com/sertkaya/elephant-reasoner,,CLI
-ELK,maintained,usable,,https://github.com/liveontologies/elk-reasoner/,https://github.com/liveontologies/elk-reasoner/wiki,"CLI via Jar-File,Protégé-Plugin"
-ELOG,abandoned,usable,,https://code.google.com/archive/p/elog-reasoner/,,CLI via Jar-File
-Expressive Reasoning Graph Store (IBM),maintained,usable,,https://github.com/IBM/expressive-reasoning-graph-store,,Web Application via Docker or Maven
-EYE,maintained,usable,https://eyereasoner.github.io/eye/,https://github.com/eyereasoner/eye,,CLI
-EYE.js,maintained,usable,,https://github.com/eyereasoner/eye-js,,"Node.js,JavaScript"
-FaCT++,abandoned,usable,http://owl.man.ac.uk/factplusplus/, http://owl.cs.manchester.ac.uk/tools/fact/ ,https://bitbucket.org/dtsarkov/factplusplus/src/master/,"CLI via Jar-File,Protégé-Plugin"
-Flower,abandoned,usable,,https://github.com/attalos/fl0wer,,"CLI,Java API"
-HermiT,abandoned,usable,,"https://github.com/phillord/hermit-reasoner,https://github.com/rvcx/hermit",,"CLI via Jar-File?,Protégé-Plugin"
-jcel,maintained,usable,https://julianmendez.github.io/jcel/ ,https://github.com/julianmendez/jcel,https://julianmendez.github.io/jcel/,"CLI via Jar-File,Protégé-Plugin"
-JFact,maintained,usable,https://jfact.sourceforge.net/,https://github.com/owlcs/jfact,,"Jar-File,Protégé-Plugin"
-KAON2,abandoned,usable,http://kaon2.semanticweb.org/,,,"Jar-File,Java API?"
-Konclude,maintained,usable,https://www.derivo.de/en/produkte/konclude.html,https://github.com/konclude/Konclude,,CLI
-LiFR,?,usable,,https://github.com/lifr-reasoner/lifr,,Java API
-LiRoT,maintained,usable,,https://gitlab.com/coswot/lirot,https://gitlab.com/coswot/lirot/-/tree/main/doc/html,C API
-Mini-ME,maintained,usable,http://swot.sisinflab.poliba.it/minime/,,,Java API
-Mini-ME Swift,?,usable,http://swot.sisinflab.poliba.it/minime-swift/,,,"Swift API,Objective-C API"
-Ontop (uses Query reasoner),maintained,usable,https://ontop-vkg.org/,https://github.com/ontop/ontop,https://ontop-vkg.org/guide/,"Protégé-Plugin,CLI via Jar-File,Java API"
-Openllet,maintained,usable,,https://github.com/Galigator/openllet,,"Jar-File,Protégé-Plugin"
-OWLRL,maintained,usable,,https://github.com/RDFLib/OWL-RL,,Python API
-Pellet,abandoned,usable,,https://github.com/severin-lemaignan/pellet, https://github.com/stardog-union/pellet,"CLI via Jar-File,Protégé-Plugin"
-Quest (part of Ontop framework),-,usable,see Ontop,see Ontop,see Ontop,see Ontop
-RDFox,maintained,usable,https://www.oxfordsemantic.tech/product,,,"CLI, REST-endpoint"
-RDFSharp.Semantics,maintained,usable,,https://github.com/mdesalvo/RDFSharp.Semantics,https://github.com/mdesalvo/RDFSharp.Semantics/releases/download/v3.5.0/RDFSharp.Semantics-3.5.0.pdf,.NET API
-reasonable,maintained,"?, problems with binary",,https://github.com/gtfierro/reasonable,,"Rust API, Python 3 Bindings, CLI?"
-Sequoia,maintained,?,,https://github.com/andrewdbate/Sequoia,,"CLI,Protégé-Plugin"
-Tiny-ME,?,usable,http://swot.sisinflab.poliba.it/tinyme/,,,"C API,Java API,Objective-C API"
-"TRILL (and TRILLP, and TORNADO)",maintained,usable,http://trill.ml.unife.it/,https://github.com/rzese/trill,,"Web Application,SWI-Prolog-Pack"
-Vampire,maintained,usable,https://vprover.github.io/index.html,https://github.com/vprover/vampire,https://vprover.github.io/usage.html,CLI
-VLog,maintained,usable,,https://github.com/karmaresearch/vlog,,"CLI,Java API,Web Interface"
-Whelk,maintained,usable,,https://github.com/balhoff/whelk,,"Scala API,Java API,Robot CLI,Protégé-Plugin"
 Bossam,abandoned,no,https://bossam.wordpress.com/,,,
 CB (Consequence-based reasoner),abandoned,"no, compilation failed",https://www.cs.ox.ac.uk/isg/tools/CB/,https://github.com/ykazakov/cb-reasoner,,"CLI,Protégé-Plugin"
+CEL,maintained,usable,https://julianmendez.github.io/cel/,https://github.com/julianmendez/cel,,"CLI via Jar-File,Protégé-Plugin"
 Cerebra Engine,abandoned,no files to try available,,,,
 CICLOP,abandoned,no files to try available,,,,
+Clipper,abandoned,usable,http://www.kr.tuwien.ac.at/research/systems/clipper/index.html,https://github.com/ghxiao/clipper,,"Jar-File,Java API?"
 DBOWL,abandoned,no files to try available,,,,
 Deslog,abandoned,no files to try available,,,,Java API?
 DistEL,abandoned,"no, missing info about how to compile it",,,,
 DLP,abandoned,no files to try available,https://www.bell-labs.com/user/pfps/dlp/,,,
 DReW,abandoned,"no, DLV required, but not available",,https://github.com/ghxiao/drew,,CLI via Jar-File
+ElepHant,maintained,usable,https://www.informatik.fb2.frankfurt-university.de/~sertkaya/software.html,https://github.com/sertkaya/elephant-reasoner,,CLI
+ELK,maintained,usable,,https://github.com/liveontologies/elk-reasoner/,https://github.com/liveontologies/elk-reasoner/wiki,"CLI via Jar-File,Protégé-Plugin"
 ELLY,abandoned,"no, jar files seem broken",https://elly.sourceforge.net/,https://sourceforge.net/p/elly/code/HEAD/tree/,,CLI via Jar-File?
+ELOG,abandoned,usable,,https://code.google.com/archive/p/elog-reasoner/,,CLI via Jar-File
+Expressive Reasoning Graph Store (IBM),maintained,usable,,https://github.com/IBM/expressive-reasoning-graph-store,,Web Application via Docker or Maven
+EYE,maintained,usable,https://eyereasoner.github.io/eye/,https://github.com/eyereasoner/eye,,CLI
+EYE.js,maintained,usable,,https://github.com/eyereasoner/eye-js,,"Node.js,JavaScript"
 F-OWL,abandoned,no files to try available,,,,
+FaCT++,abandoned,usable,http://owl.man.ac.uk/factplusplus/, http://owl.cs.manchester.ac.uk/tools/fact/ ,https://bitbucket.org/dtsarkov/factplusplus/src/master/,"CLI via Jar-File,Protégé-Plugin"
+Flower,abandoned,"no, Maven build failed",,https://github.com/attalos/fl0wer,,"CLI,Java API"
 fuzzyDL,abandoned,?,"https://www.umbertostraccia.it/cs/software/fuzzyDL/fuzzyDL.html,https://www.umbertostraccia.it/cs/software/FuzzyOWL/index.html",,,"CLI,Protégé-Plugin"
 HAM-ALC,abandoned,no files to try available,https://kogs-www.informatik.uni-hamburg.de/publikationen/pub-haarslev/DL-98b.pdf,,,
+HermiT,abandoned,usable,,"https://github.com/phillord/hermit-reasoner,https://github.com/rvcx/hermit",,"CLI via Jar-File?,Protégé-Plugin"
 HS-Reasoner,abandoned,"?, no knowledge about Haskell",,https://github.com/agnantis/hs-reasoner,,
+jcel,maintained,usable,https://julianmendez.github.io/jcel/ ,https://github.com/julianmendez/jcel,https://julianmendez.github.io/jcel/,"CLI via Jar-File,Protégé-Plugin"
+JFact,maintained,usable,https://jfact.sourceforge.net/,https://github.com/owlcs/jfact,,"Jar-File,Protégé-Plugin"
+KAON2,abandoned,usable,http://kaon2.semanticweb.org/,,,"Jar-File,Java API?"
+Konclude,maintained,usable,https://www.derivo.de/en/produkte/konclude.html,https://github.com/konclude/Konclude,,CLI
 leanCoR,abandoned,"no, SWI setup in Ubuntu 20.04. failed",http://www.leancor.org/,https://github.com/adrianomelo/leancor,,CLI?
+LiFR,maintained,usable,,https://github.com/lifr-reasoner/lifr,,Java API
 LillyTab,abandoned,"no, jar files seem broken",https://pwub.github.io/lillytab/,https://github.com/pwub/lillytab,,
+LiRoT,maintained,usable,,https://gitlab.com/coswot/lirot,https://gitlab.com/coswot/lirot/-/tree/main/doc/html,C API
+Mini-ME,maintained,"?, download links for plugin broken and server package shows 404 error",http://swot.sisinflab.poliba.it/minime/,,,Java API
+Mini-ME Swift,?,usable,http://swot.sisinflab.poliba.it/minime-swift/,,,"Swift API,Objective-C API"
 NORA,maintained,?,,https://github.com/benhid/nora,,"Jar-File,Java API?"
 ODevice,abandoned,?,https://sourceforge.net/projects/o-device/,,,
+Ontop (with Query reasoner),maintained,usable,https://ontop-vkg.org/,https://github.com/ontop/ontop,https://ontop-vkg.org/guide/,"Protégé-Plugin,CLI via Jar-File,Java API"
+Openllet,maintained,usable,,https://github.com/Galigator/openllet,,"Jar-File,Protégé-Plugin"
 Owlgres,abandoned,no files to try available,https://www.semanticweb.org/wiki/Owlgres.html,,,
 OWLIM,abandoned,no files to try available,,,,
+OWLRL,maintained,usable,,https://github.com/RDFLib/OWL-RL,,Python API
+Pellet,abandoned,usable,,https://github.com/severin-lemaignan/pellet, https://github.com/stardog-union/pellet,"CLI via Jar-File,Protégé-Plugin, Java API?"
 Pocket KRHyper,abandoned,no files to try available,https://www.uni-koblenz.de/~%7B%7Diason/downloads,,,
 Pronto,abandoned,"no, start script seems faulty",,https://github.com/klinovp/pronto ,,"Jar-File,Java API?"
 QueryPIE,abandoned,?,,https://github.com/jrbn/querypie,,"Jar-File,Java API?"
@@ -63,7 +53,11 @@ Quill (part of TrOWL),abandoned,no files to try available,http://kt.abdn.ac.uk/w
 QuOnto,abandoned,no files to try available,,,,
 RACER / RacerPro,abandoned,no files to try available,"https://www.ifis.uni-luebeck.de/~moeller/racer/ , https://www.ifis.uni-luebeck.de/index.php?id=385",https://github.com/ha-mo-we/Racer,,"Common Lisp API?,Java API?"
 RAT-OWL,abandoned,no files to try available,,,,Protégé-Plugin
+RDFox,maintained,usable,https://www.oxfordsemantic.tech/product,,,"CLI, REST-endpoint"
+RDFSharp.Semantics,maintained,usable,,https://github.com/mdesalvo/RDFSharp.Semantics,https://github.com/mdesalvo/RDFSharp.Semantics/releases/download/v3.5.0/RDFSharp.Semantics-3.5.0.pdf,.NET API
+reasonable,maintained,usable,,https://github.com/gtfierro/reasonable,,"Rust API, Python 3 Bindings, CLI?"
 REL (part of TrOWL),abandoned,no files to try available,http://kt.abdn.ac.uk/wiki/Projects/REL,,,
+Sequoia,maintained,?,,https://github.com/andrewdbate/Sequoia,,"CLI,Protégé-Plugin, OWL API"
 SHER,abandoned,no files to try available,http://www.alphaworks.ibm.com/tech/sher,,,
 Snorocket,abandoned,no files to try available,,,,"Java API,Protégé-Plugin"
 SoftFacts,abandoned,no files to try available,,https://github.com/straccia/SoftFacts,,
@@ -71,6 +65,11 @@ SparkEL,abandoned,"no, setup script seems faulty",,https://github.com/raghavam/s
 SPOR,abandoned,"?, no knowledge in compiling C++ programs",,https://github.com/ArArgyridis/SPOR,,
 SPOWL,abandoned,no files to try available,,,,
 SWRL-IQ,abandoned,"no, outdated Protégé required",https://www.onistt.org/display/SWRLIQ/SWRL-IQ,,,Protégé-Plugin
+Tiny-ME,?,usable,http://swot.sisinflab.poliba.it/tinyme/,,,"C API,Java API,Objective-C API"
 TReasoner,abandoned,?,,https://code.google.com/archive/p/treasoner/,,Java API
+"TRILL (and TRILLP, and TORNADO)",maintained,usable,http://trill.ml.unife.it/,https://github.com/rzese/trill,,"Web Application,SWI-Prolog-Pack"
+Vampire,maintained,usable,https://vprover.github.io/index.html,https://github.com/vprover/vampire,https://vprover.github.io/usage.html,CLI
+VLog,maintained,usable,,https://github.com/karmaresearch/vlog,,"CLI,Java API,Web Interface"
 WebPIE,abandoned,?,https://www.few.vu.nl/~jui200/webpie.html,https://code.launchpad.net/reasoning-hadoop,,CLI
+Whelk,maintained,usable,,https://github.com/balhoff/whelk,,"Scala API,Java API,Robot CLI,Protégé-Plugin"
 Wolpertinger,?,"no, Maven build failed",,https://github.com/wolpertinger-reasoner/Wolpertinger,,"Java API,Protégé-Plugin"
