@@ -67,7 +67,7 @@ SPOWL,abandoned,no files to try available,,,,
 SWRL-IQ,abandoned,"no, outdated Protégé required",https://www.onistt.org/display/SWRLIQ/SWRL-IQ,,,Protégé-Plugin
 Tiny-ME,?,usable,http://swot.sisinflab.poliba.it/tinyme/,,,"C API,Java API,Objective-C API"
 TReasoner,abandoned,?,,https://code.google.com/archive/p/treasoner/,,Java API
-"TRILL (and TRILLP, and TORNADO)",maintained,usable,http://trill.ml.unife.it/,https://github.com/rzese/trill,,"Web Application,SWI-Prolog-Pack"
+TRILL (and TRILLP and TORNADO),maintained,usable,http://trill.ml.unife.it/,https://github.com/rzese/trill,,"Web Application,SWI-Prolog-Pack"
 Vampire,maintained,usable,https://vprover.github.io/index.html,https://github.com/vprover/vampire,https://vprover.github.io/usage.html,CLI
 VLog,maintained,usable,,https://github.com/karmaresearch/vlog,,"CLI,Java API,Web Interface"
 WebPIE,abandoned,?,https://www.few.vu.nl/~jui200/webpie.html,https://code.launchpad.net/reasoning-hadoop,,CLI
