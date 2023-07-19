@@ -9,12 +9,12 @@ DRAOn,abandoned,http://iddl.gforge.inria.fr/,,
 Hoolet ,abandoned,http://owl.man.ac.uk/hoolet/,,
 HydrOWL,abandoned,http://www.image.ece.ntua.gr/~gstoil/hydrowl/,,"Jar-File?,Java API?"
 HyLAR,useable,,https://github.com/ucbl/HyLAR-Reasoner,JavaScript-Library
-Minerva,?,,,
+Minerva,abandoned,,,
 MORe,abandoned,,https://github.com/anaphylactic/MORe,Java API
 NoHR,useable,https://nohr.di.fct.unl.pt/index.html,https://github.com/NoHRReasoner/NoHR,"Protégé-Plugin,Java-API"
 PAGOdA,useable,https://www.cs.ox.ac.uk/isg/tools/PAGOdA/,https://github.com/KRR-Oxford/PAGOdA,"Jar-File,Java API"
 PROSE,abandoned,,,
-R2O2*,?,,https://github.com/liyuanfang/r2o2-star,Java API?
+R2O2*,abandoned,,https://github.com/liyuanfang/r2o2-star,Java API?
 REQUIEM,abandoned,https://www.cs.ox.ac.uk/isg/tools/Requiem/,,Eclipse Plugin
 RuQAR,abandoned,,,
 Screech,abandoned,,,
