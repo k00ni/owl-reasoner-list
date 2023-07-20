@@ -1,22 +1,23 @@
-Systems using foreign reasoners,Status,Website,Code-Repository,Useable via
-AberOWL,maintained,http://aber-owl.net/about/,https://github.com/bio-ontology-research-group/AberOWL,
-BUNDLE,useable,https://ml.unife.it/bundle/,https://bitbucket.org/machinelearningunife/bundle/,"CLI via Jar-File?,Library,Docker"
-Chainsaw,maintained,,https://bitbucket.org/ignazio1977/chainsaw/src/master/,
-ComR,abandoned,,,
-COROR,abandoned,,,
-DLEJena,abandoned,,,
-DRAOn,abandoned,http://iddl.gforge.inria.fr/,,
-Hoolet ,abandoned,http://owl.man.ac.uk/hoolet/,,
-HydrOWL,abandoned,http://www.image.ece.ntua.gr/~gstoil/hydrowl/,,"Jar-File?,Java API?"
-HyLAR,useable,,https://github.com/ucbl/HyLAR-Reasoner,JavaScript-Library
-Minerva,abandoned,,,
-MORe,abandoned,,https://github.com/anaphylactic/MORe,Java API
-NoHR,useable,https://nohr.di.fct.unl.pt/index.html,https://github.com/NoHRReasoner/NoHR,"Protégé-Plugin,Java-API"
-PAGOdA,useable,https://www.cs.ox.ac.uk/isg/tools/PAGOdA/,https://github.com/KRR-Oxford/PAGOdA,"Jar-File,Java API"
-PROSE,abandoned,,,
-R2O2*,abandoned,,https://github.com/liyuanfang/r2o2-star,Java API?
-REQUIEM,abandoned,https://www.cs.ox.ac.uk/isg/tools/Requiem/,,Eclipse Plugin
-RuQAR,abandoned,,,
-Screech,abandoned,,,
-TrOWL,abandoned,,https://github.com/TrOWL/core,"Jar-File?,Java API?"
-WSClassifier (and WSReasoner),abandoned,,https://code.google.com/archive/p/wsclassifier/,"Jar-File,Java API?"
+Systems using foreign reasoners,Maintenance,Is usable,Website,Code-Repository,Useable via
+AberOWL,maintained,usable,http://aber-owl.net/about/,https://github.com/bio-ontology-research-group/AberOWL,
+BUNDLE,maintained,usable,https://ml.unife.it/bundle/,https://bitbucket.org/machinelearningunife/bundle/,"CLI via Jar-File?,Library,Docker"
+Chainsaw,maintained,"not tried, because custom Java project required",,https://bitbucket.org/ignazio1977/chainsaw/src/master/,Java API
+ComR,abandoned,no files to try available,,,
+COROR,abandoned,no files to try available,,,
+DLEJena,abandoned,no files to try available,,,
+DRAOn,abandoned,no files to try available,http://iddl.gforge.inria.fr/,,
+ELOG,abandoned,usable,,https://code.google.com/archive/p/elog-reasoner/,CLI via Jar-File
+Hoolet ,abandoned,usable,http://owl.man.ac.uk/hoolet/,,
+HydrOWL,abandoned,no files to try available,http://www.image.ece.ntua.gr/~gstoil/hydrowl/,,"Jar-File?,Java API?"
+HyLAR,maintained,useable,,https://github.com/ucbl/HyLAR-Reasoner,JavaScript-Library
+Minerva,abandoned,no files to try available,,,
+MORe,abandoned,"not tried, because custom Java project required",,https://github.com/anaphylactic/MORe,Java API
+NoHR,abandoned,useable,https://nohr.di.fct.unl.pt/index.html,https://github.com/NoHRReasoner/NoHR,"Protégé-Plugin,Java-API"
+PAGOdA,maintained,useable,https://www.cs.ox.ac.uk/isg/tools/PAGOdA/,https://github.com/KRR-Oxford/PAGOdA,"Jar-File,Java API"
+PROSE,abandoned,no files to try available,,,
+R2O2*,abandoned,"no, compilation failed",,https://github.com/liyuanfang/r2o2-star,Java API?
+REQUIEM,abandoned,"yes, Docker container was tried",https://www.cs.ox.ac.uk/isg/tools/Requiem/,,Eclipse Plugin
+RuQAR,abandoned,no files to try available,,,
+Screech,abandoned,no files to try available,,,
+TrOWL,abandoned,"not tried, I assume custom Java project is required",,https://github.com/TrOWL/core,"Jar-File?,Java API?"
+WSClassifier (and WSReasoner),abandoned,"not tried, because it uses to various Google Drive folders",,https://code.google.com/archive/p/wsclassifier/,"Jar-File,Java API?"
