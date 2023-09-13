@@ -9,7 +9,7 @@ The results of that research were published in the following paper:
 
 ## License
 
-This work is licensed under the terms of the Creative Commons CC-BY-SA (Attribution-ShareAlike) 4.0 International. For further information check [LICENSE](./LICENSE) or https://creativecommons.org/licenses/by-sa/4.0/.
+This work is licensed under the terms of the Creative Commons CC-BY (Attribution) 4.0 International. For further information check [LICENSE](./LICENSE) or https://creativecommons.org/licenses/by/4.0/.
 
 ## Content
 
