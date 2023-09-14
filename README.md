@@ -21,7 +21,7 @@ Each entry contains information (if available) about project maintenance status,
 ### Software which uses a foreign reasoner
 
 File [**system-using-foreign-reasoner.csv**](./system-using-foreign-reasoner.csv) contains a list of software, which uses a foreign reasoner.
-It is similar structured as *reasoner.csv*.
+It has a similar structure to *reasoner.csv*.
 
 ### Bibliography
 
