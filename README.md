@@ -5,7 +5,19 @@ The list doesn't claim to be complete.
 
 The results of that research were published in the following paper:
 
-> TODO
+**BibTeX:**
+```
+@misc{abicht2023owl,
+      title={OWL Reasoners still useable in 2023}, 
+      author={Konrad Abicht},
+      year={2023},
+      eprint={2309.06888},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+
+https://arxiv.org/abs/2309.06888
 
 ## License
 
