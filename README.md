@@ -23,7 +23,7 @@ Each entry contains information (if available) about project maintenance status,
 File [**system-using-foreign-reasoner.csv**](./system-using-foreign-reasoner.csv) contains a list of software, which uses a foreign reasoner.
 It is similar structured as *reasoner.csv*.
 
-## Bibliography
+### Bibliography
 
 File [**paper.bib**](./paper.bib) contains all publications used for my research.
 Most of them are publications regarding OWL reasoners.
