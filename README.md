@@ -7,13 +7,14 @@ The results of that research were published in the following paper:
 
 **BibTeX:**
 ```
-@misc{abicht2023owl,
-      title={OWL Reasoners still useable in 2023}, 
-      author={Konrad Abicht},
-      year={2023},
-      eprint={2309.06888},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{abicht2023owl,
+  title={OWL Reasoners still useable in 2023},
+  author={Abicht, Konrad},
+  year={2023},
+  journal={arXiv preprint arXiv:2309.06888},
+  eprint={2309.06888},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI}
 }
 ```
 
