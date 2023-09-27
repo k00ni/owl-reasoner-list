@@ -28,18 +28,18 @@ This work is licensed under the terms of the Creative Commons CC-BY (Attribution
 
 ### Reasoner overview
 
-In file [**reasoner.csv**](./reasoner.csv) is an overview of all OWL reasonerns I found during my research. 
+The file [**reasoner.csv**](./reasoner.csv) contains an overview of all OWL reasonerns found during the survey. 
 Each entry contains information (if available) about project maintenance status, if software is still usable, code repository links and how you can interact with the software.
 
 ### Software using a third-party reasoner
 
-File [**system-using-third-party-reasoner.csv**](./system-using-third-party-reasoner.csv) contains a list of software, which uses a third-party reasoner.
+The file [**system-using-third-party-reasoner.csv**](./system-using-third-party-reasoner.csv) contains a list of software, which uses a third-party reasoner.
 It is similar structured as *reasoner.csv*.
 
 ### Bibliography
 
-File [**paper.bib**](./paper.bib) contains all publications used for my research.
-Most of them are publications regarding OWL reasoners.
+The file [**paper.bib**](./paper.bib) contains all publications used in the article mentioned above.
+Most of them are articles regarding OWL reasoners.
 
 ## Contributions
 
