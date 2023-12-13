@@ -1,7 +1,7 @@
 # List of OWL Reasoner
 
-This repository contains raw files generated during a systematic literature, software and internet research of OWL reasoners, which was originally done in 2023, but may have change in the meantime. 
-The list doesn't claim to be complete.
+This repository contains raw files generated during a systematic literature-, software- and internet research of usable OWL reasoners (originally done in 2023). 
+This list doesn't claim to be complete.
 
 The results of that research were published in the following article:
 
