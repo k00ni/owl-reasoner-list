@@ -28,12 +28,12 @@ To get the exact data generated during the research, please checkout tag [v1.0.0
 
 ### Reasoner overview
 
-In file [**reasoner.csv**](./reasoner.csv) is an overview of all OWL reasonerns I found during my research.
-Each entry contains information (if available) about project maintenance status, if software is still usable, code repository links and how you can interact with the software.
+[**reasoner.csv**](./reasoner.csv) contains a list of available OWL reasoners.
+Each entry contains information about project maintenance status, if software is still usable, version, license, code repository links etc.
 
 ### Software using a third-party reasoner
 
-File [**system-using-third-party-reasoner.csv**](./system-using-third-party-reasoner.csv) contains a list of software, which uses a third-party reasoner.
+[**systems-using-third-party-reasoner.csv**](./systems-using-third-party-reasoner.csv) contains a list of software, which uses a third-party reasoner.
 It is similar structured as *reasoner.csv*.
 
 ### Bibliography
