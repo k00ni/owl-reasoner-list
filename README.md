@@ -4,8 +4,8 @@ This repository contains a list of information about OWL reasoners as well as sy
 
 ## Briefly about the history
 
-My findings during a systematic literature-, software- and internet study about OWL reasoners and systems using a third-party reasoner were documented in a few raw files.
-The research took place in place in 2023 and the lhe list doesn't claim to be complete.
+My findings during a systematic literature-, software- and internet study about OWL reasoners and systems using a third-party reasoner were documented in the raw files you find here.
+The research took place in place in 2023 and the list doesn't claim to be complete.
 All results of that research were published in the following paper:
 
 **BibTeX:**
