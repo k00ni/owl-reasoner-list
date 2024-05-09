@@ -3,16 +3,16 @@
 "Arachne","maintained","usable","1.2.1","BSD-3-Clause",,"https://github.com/balhoff/arachne",,"CLI via Jar-File"
 "BaseVISor","maintained","usable","2.0.2","For academic and research use free of charge; all other uses require a commercial license","https://vistology.com/products/basevisor/",,"API documentation and usage information provided via ZIP file (which contains Jar files).","CLI via Jar-File,Java API"
 "BORN","maintained","usable","0.4.1","Apache-2.0","https://julianmendez.github.io/born/","https://github.com/de-tu-dresden-inf-lat/born",,"CLI via Jar-File,Protégé-Plugin"
-"Bossam","abandoned","no files to try available","Information not available","Information not available","https://bossam.wordpress.com/",,,
+"Bossam","abandoned","no files available to try","Information not available","Information not available","https://bossam.wordpress.com/",,,
 "CB (Consequence-based reasoner)","abandoned","no, compilation failed","Information not available","LGPL-2.1","https://www.cs.ox.ac.uk/isg/tools/CB/","https://github.com/ykazakov/cb-reasoner",,"CLI,Protégé-Plugin"
 "CEL","maintained","usable","0.6.0","Apache-2.0","https://julianmendez.github.io/cel/","https://github.com/julianmendez/cel",,"CLI via Jar-File,Protégé-Plugin"
-"Cerebra Engine","abandoned","no files to try available","Information not available","Information not available",,,,
-"CICLOP","abandoned","no files to try available","Information not available","Information not available",,,,
+"Cerebra Engine","abandoned","no files available to try","Information not available","Information not available",,,,
+"CICLOP","abandoned","no files available to try","Information not available","Information not available",,,,
 "Clipper","abandoned","usable","0.3.0","Apache-2.0","http://www.kr.tuwien.ac.at/research/systems/clipper/index.html","https://github.com/ghxiao/clipper",,"Jar-File,Java API?"
-"DB-OWL","abandoned","no files to try available","Information not available","Information not available",,,,
+"DB-OWL","abandoned","no files available to try","Information not available","Information not available",,,,
 "Deslog","abandoned","usable","0.3911","GPL-3",,"https://code.google.com/archive/p/deslog/",,"CLI via Jar-File"
 "DistEL","abandoned","no, missing info about how to compile it","Information not available","Information not available",,"https://github.com/raghavam/DistEL",,
-"DLP","abandoned","no files to try available","Information not available","Information not available","https://www.bell-labs.com/user/pfps/dlp/",,,
+"DLP","abandoned","no files available to try","Information not available","Information not available","https://www.bell-labs.com/user/pfps/dlp/",,,
 "DReW","abandoned","no, DLV required, but not available","0.3-beta3","Apache-2.0",,"https://github.com/ghxiao/drew",,"CLI via Jar-File"
 "ElepHant","maintained","usable","0.5.9","Apache-2.0","https://www.informatik.fb2.frankfurt-university.de/~sertkaya/software.html","https://github.com/sertkaya/elephant-reasoner",,"CLI"
 "ELK","maintained","usable","0.4.3","Apache-2.0",,"https://github.com/liveontologies/elk-reasoner/","https://github.com/liveontologies/elk-reasoner/wiki","CLI via Jar-File,Protégé-Plugin"
@@ -20,11 +20,11 @@
 "Expressive Reasoning Graph Store (IBM)","maintained","usable","Information not available","Apache-2.0",,"https://github.com/IBM/expressive-reasoning-graph-store",,"Web Application via Docker or Maven"
 "EYE","maintained","usable","10.7.2","MIT","https://eyereasoner.github.io/eye/","https://github.com/eyereasoner/eye",,"CLI"
 "EYE.js","maintained","usable","16.4.3","MIT",,"https://github.com/eyereasoner/eye-js",,"Node.js,JavaScript"
-"F-OWL","abandoned","no files to try available","Information not available","Information not available",,,,
+"F-OWL","abandoned","no files available to try","Information not available","Information not available",,,,
 "FaCT++","abandoned","usable","1.6.4","LGPL-3","http://owl.man.ac.uk/factplusplus/","http://owl.cs.manchester.ac.uk/tools/fact/ ","https://bitbucket.org/dtsarkov/factplusplus/src/master/","CLI via Jar-File,Protégé-Plugin"
 "Flower","abandoned","no, Maven build failed","Information not available","Information not available",,"https://github.com/attalos/fl0wer",,"CLI,Java API"
 "fuzzyDL","abandoned","not tried, because Protégé 4.3 didn‘t run","2.3","Information not available","https://www.umbertostraccia.it/cs/software/fuzzyDL/fuzzyDL.html,https://www.umbertostraccia.it/cs/software/FuzzyOWL/index.html",,,"CLI,Protégé-Plugin"
-"HAM-ALC","abandoned","no files to try available","Information not available","Information not available","https://kogs-www.informatik.uni-hamburg.de/publikationen/pub-haarslev/DL-98b.pdf",,,
+"HAM-ALC","abandoned","no files available to try","Information not available","Information not available","https://kogs-www.informatik.uni-hamburg.de/publikationen/pub-haarslev/DL-98b.pdf",,,
 "HermiT","abandoned","usable","1.3.8","LGPL-3 or later",,"https://github.com/phillord/hermit-reasoner,https://github.com/rvcx/hermit",,"CLI via Jar-File?,Protégé-Plugin"
 "HS-Reasoner","abandoned","not tried, no knowledge about Haskell","Information not available","BSD-3-Clause",,"https://github.com/agnantis/hs-reasoner",,
 "jcel","maintained","usable","0.24.0","Apache 2.0,LGPL-3","https://julianmendez.github.io/jcel/ ","https://github.com/julianmendez/jcel","https://julianmendez.github.io/jcel/","CLI via Jar-File,Protégé-Plugin"
@@ -41,28 +41,28 @@
 "ODevice","abandoned","not tried, because files are super outdated (from 2009 and younger)","2","Apache-2.0","https://sourceforge.net/projects/o-device/",,,
 "Ontop (with Query reasoner)","maintained","usable","5.1.2","Apache-2.0","https://ontop-vkg.org/","https://github.com/ontop/ontop","https://ontop-vkg.org/guide/","Protégé-Plugin,CLI via Jar-File,Java API"
 "Openllet","maintained","usable","2.6.5","AGPL-3,Custom license from Clark & Parsia LLC",,"https://github.com/Galigator/openllet",,"Jar-File,Protégé-Plugin"
-"Owlgres","abandoned","no files to try available","Information not available","Information not available","https://www.semanticweb.org/wiki/Owlgres.html",,,
-"OWLIM","abandoned","no files to try available","Information not available","Information not available",,,,
+"Owlgres","abandoned","no files available to try","Information not available","Information not available","https://www.semanticweb.org/wiki/Owlgres.html",,,
+"OWLIM","abandoned","no files available to try","Information not available","Information not available",,,,
 "OWLRL","maintained","usable","5.2.3","W3C Software License",,"https://github.com/RDFLib/OWL-RL",,"Python API"
 "OWLSharp","maintained","usable","3.11.0","Apache-2.0",,"https://github.com/mdesalvo/OWLSharp","https://github.com/mdesalvo/RDFSharp.Semantics/releases/download/v3.5.0/RDFSharp.Semantics-3.5.0.pdf",".NET API"
 "Pellet","abandoned","usable","2.3.1","AGPL-3,Custom license from Clark & Parsia LLC",,"https://github.com/severin-lemaignan/pellet"," https://github.com/stardog-union/pellet","CLI via Jar-File,Protégé-Plugin, Java API?"
 "Pocket KRHyper","abandoned","no, jar files seem broken","0.9.3","LGPL-2.1","https://sourceforge.net/projects/mobilereasoner/",,,
 "Pronto","abandoned","no, start script seems faulty","Information not available","Apache-2.0",,"https://github.com/klinovp/pronto ",,"Jar-File,Java API?"
 "QueryPIE","abandoned","not tried, because it requires additional software such as Hadoop","Information not available","Apache-2.0",,"https://github.com/jrbn/querypie",,"Jar-File,Java API?"
-"Quill (part of TrOWL)","abandoned","no files to try available","Information not available","Information not available","http://kt.abdn.ac.uk/wiki/Projects/Quill",,,
-"QuOnto","abandoned","no files to try available","Information not available","Information not available",,,,
-"RACER / RacerPro","abandoned","no files to try available","2.0","BSD-3-Clause","https://www.ifis.uni-luebeck.de/~moeller/racer/,https://www.ifis.uni-luebeck.de/index.php?id=385","https://github.com/ha-mo-we/Racer",,"Common Lisp API?,Java API?"
-"RAT-OWL","abandoned","no files to try available","Information not available","Information not available",,,,"Protégé-Plugin"
+"Quill (part of TrOWL)","abandoned","no files available to try","Information not available","Information not available","http://kt.abdn.ac.uk/wiki/Projects/Quill",,,
+"QuOnto","abandoned","no files available to try","Information not available","Information not available",,,,
+"RACER / RacerPro","abandoned","no files available to try","2.0","BSD-3-Clause","https://www.ifis.uni-luebeck.de/~moeller/racer/,https://www.ifis.uni-luebeck.de/index.php?id=385","https://github.com/ha-mo-we/Racer",,"Common Lisp API?,Java API?"
+"RAT-OWL","abandoned","no files available to try","Information not available","Information not available",,,,"Protégé-Plugin"
 "RDFox","maintained","usable","6.2","Proprietary","https://www.oxfordsemantic.tech/product",,,"CLI, REST-endpoint"
 "reasonable","maintained","usable","0.2.1","BSD-3-Clause",,"https://github.com/gtfierro/reasonable",,"Rust API, Python 3 Bindings, CLI?"
-"REL (part of TrOWL)","abandoned","no files to try available","Information not available","Information not available","http://kt.abdn.ac.uk/wiki/Projects/REL",,,
+"REL (part of TrOWL)","abandoned","no files available to try","Information not available","Information not available","http://kt.abdn.ac.uk/wiki/Projects/REL",,,
 "Sequoia","maintained","not tried, because it requires a Scala environment","Information not available","GPL-3",,"https://github.com/andrewdbate/Sequoia",,"CLI,Protégé-Plugin, OWL API"
-"SHER","abandoned","no files to try available","Information not available","Information not available","http://www.alphaworks.ibm.com/tech/sher",,,
-"Snorocket","abandoned","no files to try available","4.0.1","Apache-2.0",,,,"Java API,Protégé-Plugin"
-"SoftFacts","abandoned","no files to try available","Information not available","Information not available",,"https://github.com/straccia/SoftFacts",,
+"SHER","abandoned","no files available to try","Information not available","Information not available","http://www.alphaworks.ibm.com/tech/sher",,,
+"Snorocket","abandoned","no files available to try","4.0.1","Apache-2.0",,,,"Java API,Protégé-Plugin"
+"SoftFacts","abandoned","no files available to try","Information not available","Information not available",,"https://github.com/straccia/SoftFacts",,
 "SparkEL","abandoned","no, setup script seems faulty","Information not available","Information not available",,"https://github.com/raghavam/sparkel",,
 "SPOR","abandoned","not tried, no knowledge in compiling C++ programs","Information not available","GPL-3 or later",,"https://github.com/ArArgyridis/SPOR",,
-"SPOWL","abandoned","no files to try available","Information not available","Information not available",,,,
+"SPOWL","abandoned","no files available to try","Information not available","Information not available",,,,
 "SWRL-IQ","abandoned","no, outdated Protégé required","Information not available","Information not available","https://www.onistt.org/display/SWRLIQ/SWRL-IQ",,,"Protégé-Plugin"
 "Tiny-ME","no information available","usable","1.0.0","Information not available","http://swot.sisinflab.poliba.it/tinyme/",,,"C API,Java API,Objective-C API"
 "TReasoner","abandoned","not tried, because it is only usable inside a custom Java project","Information not available","GPL-2",,"https://code.google.com/archive/p/treasoner/",,"Java API"
