@@ -1,4 +1,4 @@
-# List of OWL Reasoner
+# List of OWL Reasoners
 
 This repository contains a list of information about OWL reasoners as well as systems, which use a third-party OWL reasoner. Further additions and changes are welcome.
 
